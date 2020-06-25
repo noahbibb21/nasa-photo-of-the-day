@@ -1,1 +1,1 @@
-export const API_WITH_KEY = 'https://api.nasa.gov/planetary/earth/imagery?lon=100.75&lat=1.5&date=20`14-02-01&api_key=DEMO_KEY'
+export const API_WITH_KEY = 'https://api.nasa.gov/planetary/apod?api_key=Upm6dHYealaLCWlKlWN7MZ33S9g5K4fv0bj26UaX'
